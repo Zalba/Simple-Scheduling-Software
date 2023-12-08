@@ -1,0 +1,93 @@
+{
+    "date": "2022-10-16",
+    "total_hours": 10.5,
+    "week": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+    ],
+    "employees": {
+        "Zach": {
+            "availability": {
+                "Monday": [12,19],
+                "Tuesday": [8, 15],
+                "Wednesday": [8, 19],
+                "Thursday": [8, 19],
+                "Friday": [12, 19],
+                "Saturday": null,
+                "Sunday": null
+            },
+            "manager": false,
+            "notary": true
+        },
+        "Marcelo": {
+            "availability": {
+                "Monday": [8, 19],
+                "Tuesday": [8, 15],
+                "Wednesday": [8, 19],
+                "Thursday": [8, 19],
+                "Friday": [8, 16],
+                "Saturday": null,
+                "Sunday": null
+            },
+            "manager": true,
+            "notary": false
+        },
+        "Rob": {
+            "availability": {
+                "Monday": [8, 13],
+                "Tuesday": null,
+                "Wednesday": [8, 19],
+                "Thursday": null,
+                "Friday": [8, 13],
+                "Saturday": [9, 16],
+                "Sunday": [10, 15]
+            },
+            "manager": false,
+            "notary": false
+        },
+        "Bart": {
+            "availability": {
+                "Monday": [8, 19],
+                "Tuesday": [8, 19],
+                "Wednesday": [8, 19],
+                "Thursday": [8, 19],
+                "Friday": [8, 19],
+                "Saturday": [9, 16],
+                "Sunday": [10, 15]
+            },
+            "manager": false,
+            "notary": false
+        },
+        "Angelo": {
+            "availability": {
+                "Monday": [16, 19],
+                "Tuesday": [14, 19],
+                "Wednesday": [16, 19],
+                "Thursday": [8, 19],
+                "Friday": null,
+                "Saturday": [9, 16],
+                "Sunday": [10, 15]
+            },
+            "manager": false,
+            "notary": false
+        },
+        "Brad": {
+            "availability": {
+                "Monday": [8, 19],
+                "Tuesday": [8, 19],
+                "Wednesday": [8, 19],
+                "Thursday": [8, 19],
+                "Friday": [8, 19],
+                "Saturday": null,
+                "Sunday": null
+            },
+            "manager": false,
+            "notary": false
+        }
+    }
+}
